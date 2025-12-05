@@ -1,0 +1,31 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio cache
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Publish output
+wwwroot/dist/
+wwwroot/generated/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# OS generated files
+.DS_Store
+Thumbs.db
