@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\NoahH\source\repos\MyBlog\BlazorWebApp\BlazorWebApp.Client\wwwroot\appsettings.Development.json
+C:\Users\NoahH\source\repos\MyBlog\BlazorWebApp\BlazorWebApp.Client\wwwroot\appsettings.json
