@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BlazorWebApp/BlazorWebApp.Client/BlazorWebApp.Client.csproj" />
+  <Project Path="BlazorWebApp/BlazorWebApp/BlazorWebApp.csproj" />
+  <Project Path="Data.Models/Data.Models.csproj" />
+  <Project Path="Data/Data.csproj" />
+</Solution>
