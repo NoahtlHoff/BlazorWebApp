@@ -3,4 +3,5 @@
   <Project Path="BlazorWebApp/BlazorWebApp/BlazorWebApp.csproj" />
   <Project Path="Data.Models/Data.Models.csproj" />
   <Project Path="Data/Data.csproj" />
+  <Project Path="SharedComponents/SharedComponents.csproj" Id="46a2c0a8-b993-4a44-85f7-47ae885b68d6" />
 </Solution>
